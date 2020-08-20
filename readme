@@ -1,1 +1,7 @@
 Hi
+
+In this notebook, a beer review data set is preprocessed. Based on the overall review, top beers are chosen.
+
+You can download the data from: https://www.kaggle.com/rdoume/beerreviews
+
+Then easily compile the code in Google Colaboratory. The link is provided on top of the .ipynb file. 
